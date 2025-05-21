@@ -28,3 +28,20 @@ This project compares traditional survival analysis (Cox Proportional Hazards) w
   - **R**: Survival modeling, ML analysis, interactive dashboard
 
 - **Evaluation Metric**: Concordance Index (C-index) to compare model accuracy
+
+---
+
+## 🧠 Key Findings
+
+- **RSF showed the highest predictive accuracy** (C-index: 0.616), followed closely by the Cox model (0.614)
+- **Cox model was selected** for the dashboard due to better interpretability
+- **Top predictors** of survival:
+  - CD8 counts at baseline and 20 weeks
+  - Karnofsky score
+  - Symptom status
+  - Recent ZDV use
+- **ZDV-only therapy showed poorer survival** compared to combination therapies
+- **Early treatment discontinuation** significantly reduced survival
+
+These insights highlight the value of combining traditional and machine learning survival methods in clinical settings.
+
