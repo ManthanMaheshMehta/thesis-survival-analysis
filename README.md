@@ -45,3 +45,21 @@ This project compares traditional survival analysis (Cox Proportional Hazards) w
 
 These insights highlight the value of combining traditional and machine learning survival methods in clinical settings.
 
+---
+
+## 🖥️ Interactive Dashboard
+
+An interactive risk prediction tool was developed using **R Shiny**, allowing users to input patient-specific variables and visualize personalized survival curves.
+
+📌 *Note: The dashboard runs locally and is not deployed online yet.*  
+If you'd like to see a demo, feel free to reach out!
+
+---
+
+## 🚧 Project Status
+
+✅ Thesis Completed – May 2025  
+✅ Code and model finalized  
+🛠️ Future plan: Deploy the R Shiny app on a public server (e.g., shinyapps.io)
+
+
