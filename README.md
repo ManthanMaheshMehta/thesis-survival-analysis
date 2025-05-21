@@ -65,4 +65,8 @@ If you'd like to see a demo, feel free to reach out!
 ✅ Code and model finalized  
 🛠️ Future plan: Deploy the R Shiny app on a public server (e.g., shinyapps.io)
 
+---
+
+📄 [Download Full Thesis (PDF)](https://github.com/ManthanMaheshMehta/thesis-survival-analysis/blob/main/Manthan%20Mehta%20Updated%20thesis.pdf)
+
 
