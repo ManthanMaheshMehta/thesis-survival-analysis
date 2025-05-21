@@ -69,4 +69,17 @@ If you'd like to see a demo, feel free to reach out!
 
 📄 [Download Full Thesis (PDF)](https://github.com/ManthanMaheshMehta/thesis-survival-analysis/blob/main/Manthan%20Mehta%20Updated%20thesis.pdf)
 
+---
+
+## 💻 R Code
+
+The full R script used in this thesis is available here:  
+📄 [Manthan_Thesis.R](Manthan_Thesis.R)
+
+The script includes:
+- Kaplan-Meier survival curve generation
+- Cox Proportional Hazards model with assumption testing
+- Random Survival Forest and variable importance
+- Gradient Boosting Machine tuning and summary
+- C-index calculation and model performance comparison
 
