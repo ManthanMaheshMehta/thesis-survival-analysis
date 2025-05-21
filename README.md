@@ -85,6 +85,21 @@ The script includes:
 
 ---
 
+## 📘 SAS Code
+
+The original SAS code used for data import and survival analysis is available as a PDF.
+
+📄 [SAS_Thesis_Codes.pdf](SAS_Thesis_Codes.pdf)
+
+This file includes:
+- Importing and preparing ACTG Study 175 data  
+- Generating Kaplan-Meier curves using `PROC LIFETEST`  
+- Fitting and comparing Cox models using `PROC PHREG`  
+- Performing assumption checks and sensitivity analyses
+
+
+---
+
 ---
 
 
