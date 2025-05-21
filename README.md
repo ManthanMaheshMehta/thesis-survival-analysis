@@ -87,19 +87,6 @@ The script includes:
 
 ---
 
-## 🖥️ R Shiny App Code
 
-The R Shiny app provides an interactive tool to visualize personalized survival curves based on user-input patient characteristics.
-
-📂 [Thesis_Shiny_app_Survival_Curve.R](Thesis_Shiny_app_Survival_Curve.R)
-
-Features include:
-- Input form for age, Karnofsky score, CD8 counts, symptom status, and ZDV exposure  
-- Real-time generation of Kaplan-Meier curves  
-- Dynamic risk score estimation using the Cox model
-
-- Input form for age, Karnofsky score, CD8 counts, symptom status, and ZDV exposure
-- Real-time generation of Kaplan-Meier curves
-- Dynamic risk score estimation using the Cox model
 
 
