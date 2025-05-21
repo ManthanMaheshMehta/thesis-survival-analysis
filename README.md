@@ -50,6 +50,9 @@ These insights highlight the value of combining traditional and machine learning
 ## 🖥️ Interactive Dashboard
 
 An interactive risk prediction tool was developed using **R Shiny**, allowing users to input patient-specific variables and visualize personalized survival curves.
+<p align="center">
+  <img src="https://github.com/ManthanMaheshMehta/thesis-survival-analysis/blob/main/RShinyApp.SurvivalCurvesAndPredictions.png?raw=true" width="700">
+</p>
 
 📌 *Note: The dashboard runs locally and is not deployed online yet.*  
 If you'd like to see a demo, feel free to reach out!
